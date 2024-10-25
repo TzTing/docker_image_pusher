@@ -1,3 +1,1 @@
 eclipse-temurin:8-jre
-eclipse-temurin:21-jre
-arm64v8/redis
