@@ -1,2 +1,2 @@
 eclipse-temurin:8-jre
-louislam/uptime-kuma:1.23.1
+louislam/uptime-kuma:1.23.15
