@@ -1,3 +1,4 @@
 eclipse-temurin:8-jre
 louislam/uptime-kuma:1.23.15
 rabbitmq:3.13.7
+mongo:8.0.10
