@@ -1,5 +1,3 @@
 eclipse-temurin:8-jre
 louislam/uptime-kuma:1.23.15
---platform=linux/arm64/v8 rabbitmq:4.2.0
---platform=linux/arm64/v8 mongo:8.2.1
-mongo:6.0
+tdengine/tdengine:latest
