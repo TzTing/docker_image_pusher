@@ -1,2 +1,2 @@
 apache/hertzbeat:latest
-nginx:latest --platform=arm
+nginx:latest --platform=arm64
